@@ -22,5 +22,6 @@ session_start();
 <a href="top.php">トップページに戻る</a>
 <a href="top.php">リンクの追加１</a>
 <a href="top.php">リンクの追加２</a>
+<a href="top.php">リンクの追加３</a>
 </body>
 </html>
