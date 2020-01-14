@@ -13,6 +13,7 @@ session_start();
 <p>投稿の閲覧は会員登録不要</p>
 <p>コメントの追加１</p>
 <p>コメントの追加２</p>
+<p>コメントの追加３</p>
 <?php if (empty($_SESSION)): ?>
 <a href="login.php">ログイン</a><br>
 <a href="signup.php">新規会員登録</a><br>
