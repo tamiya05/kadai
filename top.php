@@ -12,6 +12,7 @@ session_start();
 <p>投稿の編集や削除はログインが必要かつ投稿者本人のアカウントでのみ可能</p>
 <p>投稿の閲覧は会員登録不要</p>
 <p>コメントの追加１</p>
+<p>コメントの追加２</p>
 <?php if (empty($_SESSION)): ?>
 <a href="login.php">ログイン</a><br>
 <a href="signup.php">新規会員登録</a><br>
