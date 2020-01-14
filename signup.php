@@ -21,5 +21,6 @@ session_start();
 </form><br>
 <a href="top.php">トップページに戻る</a>
 <a href="top.php">リンクの追加１</a>
+<a href="top.php">リンクの追加２</a>
 </body>
 </html>
