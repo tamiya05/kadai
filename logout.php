@@ -12,6 +12,7 @@ session_destroy();
 <body>
 <?php echo 'ログアウトしました' ?><br>
 <?php echo 'メッセージの追加１' ?><br>
+<?php echo 'メッセージの追加２' ?><br>
 <a href="top.php">トップページへ戻る</a>
 </body>
 </html>
