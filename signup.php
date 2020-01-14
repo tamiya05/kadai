@@ -20,5 +20,6 @@ session_start();
 <input type="submit" value="新規登録">
 </form><br>
 <a href="top.php">トップページに戻る</a>
+<a href="top.php">リンクの追加１</a>
 </body>
 </html>
